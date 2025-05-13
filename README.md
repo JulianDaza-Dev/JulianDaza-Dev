@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,py,js,git,github&perline=12" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,mongodb,mysql,git,github&perline=12" />
   </a>
 </p>
 <br>
@@ -32,10 +32,29 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,html,css,&perline=12" />
   </a>
 </p>
 <br>
+
+<h2>🧠 Proyectos Destacados</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://cotizador-intereses.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/React%20App-Calculadora%20de%20Intereses-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Proyecto React - Calculadora de Intereses"/>
+      </a>
+      <br>
+      <strong>Calculadora de Intereses</strong><br>
+      Proyecto desarrollado en React para calcular intereses de manera dinámica.
+      <br>
+      🌐 <a href="https://github.com/JulianDaza-Dev/CalculadorIntereses" target="_blank">Ver Repositorio</a>
+    </td>
+  </tr>
+</table>
+<br>
+
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
