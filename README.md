@@ -13,7 +13,7 @@
 
 📚 Apasionado a crear proyectos y aprender constantemente
 
-💻 Soy Desarrollador de Software con más de 7 años de experiencia creando soluciones que transforman ideas en realidad.
+💻 Soy Desarrollador de Software con  2 años de experiencia creando soluciones que transforman ideas en realidad.
 
 📫 Contacto: **juliandazaing@gmail.com**
 <!--Intro end-->
@@ -50,6 +50,16 @@
       Proyecto desarrollado en React para calcular intereses de manera dinámica.
       <br>
       🌐 <a href="https://github.com/JulianDaza-Dev/CalculadorIntereses" target="_blank">Ver Repositorio</a>
+    </td>
+    <td>
+      <a href="https://cotizador-intereses.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Laravel%20App-Tienda%20Online-61DAFB?style=for-the-badge&logo=laravel&logoColor=black" alt="Proyecto Laravel - Tienda Online"/>
+      </a>
+      <br>
+      <strong>Tienda Online</strong><br>
+      Proyecto desarrollado en Laravel para Simular una tienda Online con administracion de permisos de usuarios.
+      <br>
+      🌐 <a href="https://github.com/JulianDaza-Dev/InnClodSAS" target="_blank">Ver Repositorio</a>
     </td>
   </tr>
 </table>
