@@ -13,7 +13,7 @@
 
 📚 Apasionado a crear proyectos y aprender constantemente
 
-💻 Soy Desarrollador de Software con  2 años de experiencia creando soluciones que transforman ideas en realidad.
+💻 Soy Desarrollador de Software con  7 años de experiencia creando soluciones que transforman ideas en realidad.
 
 📫 Contacto: **juliandazaing@gmail.com**
 <!--Intro end-->
